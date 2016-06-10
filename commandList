@@ -1,0 +1,7 @@
+npm install
+
+
+sudo npm install --save-dev gulp
+sudo npm install --save-dev gulp-util
+sudo npm install --save-dev gulp-coffee
+sudo npm install --save-dev gulp-concat
