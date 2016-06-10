@@ -5,3 +5,9 @@ sudo npm install --save-dev gulp
 sudo npm install --save-dev gulp-util
 sudo npm install --save-dev gulp-coffee
 sudo npm install --save-dev gulp-concat
+sudo npm install --save-dev gulp-browserify
+sudo npm install --save-dev jquery
+sudo npm install --save-dev mustache
+
+gulp coffee
+gulp js
