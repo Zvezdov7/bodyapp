@@ -1,3 +1,3 @@
-# Workflows Course
+# Bodyapp
 
-This project is an example of workflow management for a lynda.com course.
+This project is a playground for my study 
